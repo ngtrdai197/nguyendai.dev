@@ -6,7 +6,7 @@ description: Brief myself
 ---
 
 <div class="face">
-  <img class="avt" align="left" alt="Dai Nguyen" src="avatar.jpg" />
+  <img class="avt" align="left" alt="Dai Nguyen" src="/avatar.jpg" />
   <strong> Hi there 👋 </strong>
 </div>
 
