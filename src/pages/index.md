@@ -13,13 +13,16 @@ description: Brief myself
 <div style="line-height: 28px">
   My name is <strong>Dai Nguyen</strong>. Currently, I am contributing to the development of a digital transportation, delivery, and payment product using electric vehicles as a backend engineer at <a href="https://www.xanhsm.com/" target="_blank"><strong>Xanh SM</strong></a>.
   <br />
-  I am a developer who is highly interested in Go/TypeScript.<br />My tech stack: Golang, and full-stack TS like NestJs, Angular, ReactJs with Typescript and things around it.
+  <p> I am a developer who is highly interested in Go/Typescript.<br />
+  My tech stack: Go, and full-stack Typescript: Nest.Js, Angular, ReactJs and everything around it. </p>
 </div>
 
-- 💻 I am currently working with Golang
+- 💻 I am currently working with Go
 - 💻 I am learning Devops 🔥
 - 📫 How to reach me: dainguyen.iammm@gmail.com
-- 📑 Visit cv: https://daiiam.me/cv
+
+
+<hr />
 
 ### Connect with me:
 [<img class="mr-4" align="left" alt="Dai Nguyen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
@@ -27,6 +30,7 @@ description: Brief myself
 [<img class="mr-4" align="left" alt="Dai Nguyen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Dai Nguyen | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
 
+<br />
 <br />
 
 ### Languages and Tools:
