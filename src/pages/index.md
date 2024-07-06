@@ -55,15 +55,6 @@ description: Brief myself
 
 <img align="left" alt="React.Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<br />
-<br />
-
-<div>
-  <a href="https://github.com/ngtrdai197">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngtrdai197&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtrdai197&layout=compact&langs_count=20&theme=dracula&cache_seconds=86400"/>
-</div>
-
 [twitter]: https://twitter.com/ngtrdai197
 [instagram]: https://www.instagram.com/dainguyen.iammm/
 [linkedin]: https://www.linkedin.com/in/ngtrdai197/
