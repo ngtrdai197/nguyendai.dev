@@ -6,7 +6,10 @@ description: Brief myself
 ---
 
 <div class="face">
-  <img class="avt" align="left" alt="Dai Nguyen" src="/avatar.jpg" />
+  <!-- <img class="avt" align="left" alt="Dai Nguyen" src="/avatar.jpeg" /> -->
+  <div class="avatar-container">
+    <div class="avatar"></div>
+  </div>
   <strong> Hi there 👋 </strong>
 </div>
 
