@@ -14,7 +14,12 @@ description: Brief myself
 </div>
 
 <div style="line-height: 28px">
-  My name is <strong>Dai Nguyen</strong>. Currently, I am contributing to the development of a digital transportation, delivery, and payment product using electric vehicles as a backend engineer at <a href="https://www.xanhsm.com/" target="_blank"><strong>Xanh SM</strong></a>.
+  My name is <strong>Dai Nguyen</strong>.
+  <br />
+  I am working as a backend engineer at <a href="https://www.xanhsm.com/" target="_blank">Xanh SM</a>.
+  <br />
+  The product provides smart car booking and transportation services, using Vinfast electric cars/motorbikes.
+  <br />
   <br />
   <p> I am a developer who is highly interested in Go/Typescript.<br />
   My tech stack: Go, and full-stack Typescript: Nest.Js, Angular, ReactJs and everything around it. </p>
