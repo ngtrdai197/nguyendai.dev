@@ -20,7 +20,6 @@ description: Brief myself
   <br />
   The product provides smart car booking and transportation services, using Vinfast electric cars/motorbikes.
   <br />
-  <br />
   <p> I am a developer who is highly interested in Go/Typescript.<br />
   My tech stack: Go, and full-stack Typescript: Nest.Js, Angular, ReactJs and everything around it. </p>
 </div>
