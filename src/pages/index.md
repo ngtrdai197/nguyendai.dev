@@ -16,17 +16,14 @@ description: Brief myself
 <div style="line-height: 28px">
   My name is <strong>Dai Nguyen</strong>.
   <br />
-  I am working as a backend engineer at <a href="https://www.xanhsm.com/" target="_blank">Xanh SM</a>.
+  I am working as a backend engineer at <a href="https://www.xanhsm.com/" target="_blank">Xanh SM @GSM</a>.
   <br />
-  The product provides smart car booking and transportation services, using Vinfast electric cars/motorbikes.
+  A smart ride-hailing platform powered by a 100% VinFast electric fleet.
   <br />
   <p> I am a developer who is highly interested in Go/Typescript.<br />
-  My tech stack: Go, and full-stack Typescript: Nest.Js, Angular, ReactJs and everything around it. </p>
 </div>
 
-- 💻 I am currently working with Go
-- 💻 I am learning Devops 🔥
-- 📫 How to reach me: dainguyen.iammm@gmail.com
+📫 How to reach me: dainguyen.iammm@gmail.com
 
 
 <hr />
@@ -52,15 +49,9 @@ description: Brief myself
 
 <img class="mr-4" align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
-<img class="mr-4" align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img class="mr-4" align="left" alt="PostgresQL" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=48&v=4" />
 
 <img class="mr-4" align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img class="mr-4" align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
-
-<img class="mr-4" align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-
-<img align="left" alt="React.Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 [twitter]: https://twitter.com/ngtrdai197
 [instagram]: https://www.instagram.com/dainguyen.iammm/
