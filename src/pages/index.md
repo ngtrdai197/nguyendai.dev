@@ -13,15 +13,20 @@ description: Brief myself
   <strong> Hi there 👋 </strong>
 </div>
 
-<div style="line-height: 28px">
-  My name is <strong>Dai Nguyen</strong>.
-  <br />
-  I am working as a backend engineer at <a href="https://www.xanhsm.com/" target="_blank">Xanh SM @GSM</a>.
-  <br />
-  A smart ride-hailing platform powered by a 100% VinFast electric fleet.
-  <br />
-  <p> I am a developer who is highly interested in Go/Typescript.<br />
-</div>
+### **Personal Information**
+* **Name:** Dai Nguyen
+* **Role:** Backend Engineer
+
+---
+
+### **Current Experience**
+**Xanh SM (GSM)** *A smart ride-hailing platform powered by a 100% VinFast electric fleet.*
+
+---
+
+### **Technical Expertise**
+* **Core Languages:** Go, TypeScript
+
 
 📫 How to reach me: dainguyen.iammm@gmail.com
 
